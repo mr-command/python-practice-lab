@@ -18,3 +18,4 @@ Each folder contains a separate exercise or mini-project.
 ## Future Updates
 
 This repository will continue to grow as I add more exercises, refactor old code, and build new mini-projects.
+### be logical
